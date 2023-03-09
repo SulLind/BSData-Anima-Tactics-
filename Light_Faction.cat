@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="c062-3ffa-8384-3349" name="Light Faction" revision="2" battleScribeVersion="2.03" authorName="Saidea" authorContact="https://steamcommunity.com/id/Saidea/" library="false" gameSystemId="9e6c-b4ee-9b0c-b4e3" gameSystemRevision="5" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <readme>All credits goes to the Anima Tactics creators.</readme>
+  <entryLinks>
+    <entryLink id="07ea-63c1-6517-9603" name="Anaximenes" hidden="true" collective="false" import="true" targetId="6f6d-01f1-97c5-0fac" type="selectionEntry">
+      <modifiers>
+        <modifier type="set" field="hidden" value="false">
+          <conditions>
+            <condition field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="dbc9-1018-db14-0983" type="atLeast"/>
+          </conditions>
+        </modifier>
+      </modifiers>
+      <categoryLinks>
+        <categoryLink id="6172-5815-4ae5-1fd9" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a373-b4f5-f5f0-e4da" name="Anna Never" hidden="false" collective="false" import="true" targetId="963b-bbd7-aff8-c327" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d275-6d98-d2d6-3410" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="79c6-7695-4998-9989" name="Aoi Inukai" hidden="false" collective="false" import="true" targetId="7cc2-42c9-fa30-1c53" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2d99-945e-d7ef-60c1" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="589d-7b36-2362-bfa8" name="Assault Group" hidden="false" collective="false" import="true" targetId="b9d5-f1c7-4b77-1a82" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7e3c-44b0-0893-eb4a" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="8328-fbfa-82b4-ac66" name="New CategoryLink" hidden="false" targetId="9469-cb50-29bc-4ad5" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0e00-5672-d182-80e6" name="Bella &amp; Aqua" hidden="false" collective="false" import="true" targetId="de2c-0d85-4b35-ca96" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7da1-35c9-20a2-4883" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7aac-b21f-987a-1ade" name="Bridget Setsuna" hidden="false" collective="false" import="true" targetId="7aea-1a02-8ff1-6b1e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="02ce-c930-d180-b02a" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="363a-9a1b-2878-f1b3" name="Celia" hidden="false" collective="false" import="true" targetId="8794-6045-fe66-9699" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="eba9-4b6b-5884-8aae" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="dc2d-8afd-9423-6dd7" name="Cenette" hidden="false" collective="false" import="true" targetId="0253-ba46-7cf8-f1a6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="97b8-10f2-f177-b336" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0d68-8f34-ee9c-0490" name="Claire Adelheid" hidden="false" collective="false" import="true" targetId="7949-1147-c09b-f20f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0509-a98b-a500-0d3a" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6da5-dd58-ecbd-6419" name="Claude Valmore" hidden="false" collective="false" import="true" targetId="f950-77c4-8d9e-bc56" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6029-bf77-4d16-da19" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="68fc-39c3-a3c2-3d80" name="Clover" hidden="false" collective="false" import="true" targetId="db4f-126e-13c5-5c15" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="601b-bb21-0bf2-9066" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="f7de-633c-f260-04fb" name="New CategoryLink" hidden="false" targetId="875c-3be2-65cb-4413" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5996-d4af-c601-8f84" name="Covel" hidden="false" collective="false" import="true" targetId="42c9-36ce-31a5-e2af" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="17c4-ef35-dc0d-b3f0" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="9453-dbd7-2363-2e63" name="New CategoryLink" hidden="false" targetId="45dc-7307-2eb2-2bad" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ba08-7d6b-8c49-a72c" name="Dagger" hidden="false" collective="false" import="true" targetId="267e-a63e-8c4b-7aff" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="fe49-e442-5211-52b0" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6d0a-ca6f-d10f-43d5" name="Damien" hidden="false" collective="false" import="true" targetId="9312-0413-905c-3140" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d030-5661-23e6-5828" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c76f-4558-c098-6de7" name="Daniella Meris" hidden="false" collective="false" import="true" targetId="2ee3-eae6-7d1a-e6de" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9367-9a7d-8a39-dddd" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f5a2-c116-e79d-987b" name="Deimon" hidden="false" collective="false" import="true" targetId="39ab-d4d3-d8a9-54cd" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="786f-6c2a-1c1d-fcf2" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8a0e-bfdd-5844-9794" name="Dereck Shezard" hidden="false" collective="false" import="true" targetId="a337-117f-dafd-45d9" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8b48-9837-56a6-6a18" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7e24-358f-134c-cdc6" name="Dinah" hidden="false" collective="false" import="true" targetId="1ac2-11d0-2281-181d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="26f7-9367-9cac-524d" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="4c06-5b42-bacd-e7c9" name="New CategoryLink" hidden="false" targetId="875c-3be2-65cb-4413" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b3f5-02cb-e1d4-b55b" name="Drake" hidden="false" collective="false" import="true" targetId="c937-0f0a-7e22-1512" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e69c-cff1-1d05-8425" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1292-3bbf-521f-9261" name="Duncan Reid" hidden="false" collective="false" import="true" targetId="8c01-ba99-52d3-ae3e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5f95-8fbd-b7ef-ee9d" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ab9d-ad77-982b-ac2c" name="Erika" hidden="false" collective="false" import="true" targetId="e37d-ae07-bac6-e8a4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4810-0483-ae73-e3a4" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f4c5-1b48-a917-e629" name="Executive Team" hidden="false" collective="false" import="true" targetId="ca0f-b545-5d59-63d7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ce0b-ca32-a0f6-59e2" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="e9c4-4906-f973-08bd" name="New CategoryLink" hidden="false" targetId="9469-cb50-29bc-4ad5" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0420-5d7a-0695-f124" name="Fate" hidden="false" collective="false" import="true" targetId="b993-1f3a-445a-3ac3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="cab1-2b51-2456-9e6e" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ea88-e17e-55f4-9750" name="Faust Orbatos" hidden="false" collective="false" import="true" targetId="6151-b031-833e-b619" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2e7a-2a3d-ff2f-8474" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="bb7f-0b1d-0c7b-d6b7" name="Feng Yi" hidden="false" collective="false" import="true" targetId="33e2-dbbd-e396-ba7e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7a98-fd70-f32a-25fe" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8e3c-9d94-311a-96dc" name="Gemini" hidden="false" collective="false" import="true" targetId="98cb-fa44-ca9a-2328" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5c89-8842-d084-b660" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c7e1-a27e-71b8-c7ba" name="Genma" hidden="false" collective="false" import="true" targetId="4bd5-829a-aaf2-3a7f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="88d5-5cbe-741f-bbf9" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4afd-3bf8-9096-a171" name="Goethia" hidden="false" collective="false" import="true" targetId="f1fd-f3ff-a6f5-283d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c258-fe88-3acc-4452" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="584f-d1e7-bd27-2278" name="New CategoryLink" hidden="false" targetId="70df-cfa1-55c1-3d2c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="bcdc-6e6d-7c93-8d38" name="Grey" hidden="false" collective="false" import="true" targetId="16c2-69ec-ac63-831d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="939e-71ee-66a7-4ac0" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ed49-35e8-3d4c-f978" name="Griever" hidden="false" collective="false" import="true" targetId="ef23-660c-64c6-f841" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a02d-9d9d-edad-9717" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="cf7e-8461-9deb-2e9e" name="New CategoryLink" hidden="false" targetId="875c-3be2-65cb-4413" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="91c0-29f0-3a5d-fc21" name="Grimorium Verum" hidden="false" collective="false" import="true" targetId="59d2-a4f4-6b8a-ab4c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9bc6-a88e-2ae8-cf1b" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="c6bf-1ca0-04ca-bef5" name="New CategoryLink" hidden="false" targetId="70df-cfa1-55c1-3d2c" primary="false"/>
+        <categoryLink id="062c-fc8f-a790-49d6" name="New CategoryLink" hidden="false" targetId="45dc-7307-2eb2-2bad" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f132-8a33-4b47-2f94" name="Hecatondies Zero Sigma" hidden="false" collective="false" import="true" targetId="e8ce-9655-812f-52a6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e5f1-4934-f5db-52ad" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="ec68-2bff-62e5-6c82" name="CC: Gear" hidden="false" targetId="70df-cfa1-55c1-3d2c" primary="false"/>
+        <categoryLink id="502f-d41c-a858-6d74" name="New CategoryLink" hidden="false" targetId="875c-3be2-65cb-4413" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d1e7-cd8d-6bb5-a7c8" name="High Arbiter Arkeid" hidden="false" collective="false" import="true" targetId="cab4-03a8-2a69-8b6c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8072-edf6-b609-bff3" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="8785-8536-399a-60f1" name="New CategoryLink" hidden="false" targetId="875c-3be2-65cb-4413" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f70c-b43a-e62f-366c" name="High Saint Elienai" hidden="false" collective="false" import="true" targetId="e4ac-7a32-d67e-fc85" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9764-c273-22bd-a9ec" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="a7ac-bc84-6924-a3a8" name="New CategoryLink" hidden="false" targetId="875c-3be2-65cb-4413" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c008-6d36-456c-763c" name="Hiro" hidden="false" collective="false" import="true" targetId="4e11-5046-0a3f-9327" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1a1d-d836-8170-212c" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="07a4-9619-62db-3ecb" name="Alis Testarrosa" hidden="false" collective="false" import="true" targetId="a0a8-f37e-f420-a8f3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f422-24b9-5f78-2bc4" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3591-bbf6-770d-336e" name="Janiel" hidden="false" collective="false" import="true" targetId="2a98-9cd7-f9a0-2f28" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4dcd-99f3-f5d8-2e83" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="90f9-8b0d-2715-1913" name="Janus Faith" hidden="false" collective="false" import="true" targetId="3177-94a3-b4ea-8300" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="dc5f-59cf-a05a-970d" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="46ff-0a4d-2812-802e" name="Jiang Pao" hidden="false" collective="false" import="true" targetId="4a25-1474-7ad2-4e3e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b1a5-e836-1352-cb8b" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="447a-1706-3873-1904" name="Juliette Kaim" hidden="false" collective="false" import="true" targetId="1ec3-f996-1126-6dab" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2b74-4a9c-45ac-81e5" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f63f-d43c-dcad-b9fe" name="Kappel" hidden="true" collective="false" import="true" targetId="66d0-c4be-ded2-20ab" type="selectionEntry">
+      <modifiers>
+        <modifier type="set" field="hidden" value="false">
+          <conditions>
+            <condition field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="dbc9-1018-db14-0983" type="atLeast"/>
+          </conditions>
+        </modifier>
+      </modifiers>
+      <categoryLinks>
+        <categoryLink id="9ba0-3733-5728-25bd" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="a4eb-c771-bdef-9544" name="New CategoryLink" hidden="false" targetId="875c-3be2-65cb-4413" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3fc8-e877-8361-b8d5" name="Khaine D&apos;Lacreu" hidden="false" collective="false" import="true" targetId="bc99-fdfe-8032-d6d8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0124-d13b-14e7-e1b0" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7c13-3411-7346-b8b3" name="Kira" hidden="false" collective="false" import="true" targetId="e87e-ad11-7b42-a736" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b3aa-f302-20a4-3593" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="28fa-2151-2b44-78a5" name="Kirsten" hidden="false" collective="false" import="true" targetId="650c-0994-8851-bb58" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="32af-b197-294b-c09e" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f176-ced8-ab91-7ef1" name="Kronen Roxxon" hidden="false" collective="false" import="true" targetId="df2b-e06f-cd13-99c1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="61e7-994a-15b9-0bc7" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="276a-1c33-74c9-b73b" name="Kudoi" hidden="false" collective="false" import="true" targetId="dd4e-b589-46e5-b9e2" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5ca1-1d6b-7ce0-adcc" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="620c-0f8b-e84c-3a77" name="Kujaku Hime" hidden="false" collective="false" import="true" targetId="ffdc-93da-1868-8df0" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b24d-d8e9-4897-1795" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e1fc-22d5-1b55-8121" name="Kujaku Hime &amp; Takanosuke" hidden="false" collective="false" import="true" targetId="d6b6-36ae-e543-1bd9" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4e6c-88c5-ead5-b4fa" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="45cb-1fb8-999f-6b78" name="New CategoryLink" hidden="false" targetId="9469-cb50-29bc-4ad5" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="908f-c5f2-1ca2-313d" name="Legacy of Solomon" hidden="false" collective="false" import="true" targetId="9051-f059-c94c-f019" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="867c-1c80-1f19-d31c" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="49d8-0997-c7dc-a3f2" name="New CategoryLink" hidden="false" targetId="875c-3be2-65cb-4413" primary="true"/>
+        <categoryLink id="4b98-d938-1fe0-53ef" name="CC: Gear" hidden="false" targetId="70df-cfa1-55c1-3d2c" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ebf7-caa0-2297-930a" name="Li Long" hidden="false" collective="false" import="true" targetId="89ed-925a-0bf2-a3a8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c8be-d3eb-cc44-ead1" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f643-7e36-1632-7870" name="Lilian Virgil" hidden="false" collective="false" import="true" targetId="19f5-2737-933e-b507" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2ed5-2504-3d1f-82d2" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4957-ec7d-7544-0c96" name="Lilith" hidden="false" collective="false" import="true" targetId="ef78-9b98-62c0-5ba2" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c7a4-0fcb-905c-dabe" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="c514-bbf2-47ea-2cb3" name="New CategoryLink" hidden="false" targetId="875c-3be2-65cb-4413" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c66c-262c-94b8-9232" name="Lin Pao" hidden="false" collective="false" import="true" targetId="9b32-276d-7139-9748" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c3e6-9938-f2c8-f505" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f3a6-6cd6-e1ed-9061" name="Lorenzo" hidden="false" collective="false" import="true" targetId="f719-d122-5529-e06c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d16c-61c5-f0f1-6363" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="fece-d54d-e05a-4f3c" name="Luzbell" hidden="false" collective="false" import="true" targetId="b6cc-1b07-da3d-dbbc" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d900-af1e-ef90-6e79" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8859-48cd-4707-ce69" name="Lynn Steiner" hidden="false" collective="false" import="true" targetId="f700-eafc-e3f0-1490" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0348-cc02-a466-ce9d" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="b358-dd72-a4ca-7ac1" name="New CategoryLink" hidden="false" targetId="875c-3be2-65cb-4413" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ce27-cc6c-cf9b-9150" name="Macbeth" hidden="false" collective="false" import="true" targetId="1f50-e18a-548b-6f61" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="612e-545e-3b57-3112" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="89b7-9da8-ff05-b5cd" name="Medeus" hidden="false" collective="false" import="true" targetId="56f1-c829-b32a-6169" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d4bc-df2b-ae09-3217" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d9b8-0213-6df3-cb79" name="Mijhail Mashen&apos;ka" hidden="false" collective="false" import="true" targetId="a466-7547-e0f7-9184" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="df57-7a9d-b642-499a" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="7bb9-44b3-5eff-794d" name="New CategoryLink" hidden="false" targetId="875c-3be2-65cb-4413" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="db36-9f6c-ddac-cad9" name="Mk. Alma" hidden="true" collective="false" import="true" targetId="a724-48c8-5ce1-39fd" type="selectionEntry">
+      <modifiers>
+        <modifier type="set" field="hidden" value="false">
+          <conditions>
+            <condition field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="dbc9-1018-db14-0983" type="atLeast"/>
+          </conditions>
+        </modifier>
+      </modifiers>
+      <categoryLinks>
+        <categoryLink id="cacd-9aa2-adc9-6579" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="df1f-5cc0-e602-88a9" name="New CategoryLink" hidden="false" targetId="70df-cfa1-55c1-3d2c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2ac5-d0a4-b406-5d26" name="Nahimana" hidden="false" collective="false" import="true" targetId="44d9-bf2b-0f03-80cf" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3ab2-6ccd-a08d-9195" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="626b-b3b1-4f75-5e69" name="Nero" hidden="false" collective="false" import="true" targetId="35eb-6fa3-120a-8101" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="93ef-0024-d053-1b28" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="cd2c-9b1d-0282-251b" name="Nexus Guardian" hidden="true" collective="false" import="true" targetId="94f0-ca5b-9d4a-43b7" type="selectionEntry">
+      <modifiers>
+        <modifier type="set" field="hidden" value="false">
+          <conditions>
+            <condition field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="dbc9-1018-db14-0983" type="atLeast"/>
+          </conditions>
+        </modifier>
+      </modifiers>
+      <categoryLinks>
+        <categoryLink id="d07e-526c-eb33-1227" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f577-25ac-6c20-a3a0" name="Odin Goldsmith" hidden="false" collective="false" import="true" targetId="4452-bf6d-ee2c-554c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="45c1-1fea-4094-e897" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="67e7-7d9f-50a6-e92a" name="Rayne" hidden="false" collective="false" import="true" targetId="537c-7524-6806-112d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9bf3-45bb-5287-351b" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="fff6-2861-0d6d-e0f3" name="Raziel Archetypum" hidden="false" collective="false" import="true" targetId="ee7c-f710-1de2-f60d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b585-a233-3b9d-4b33" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="6abf-d041-dc4a-e026" name="New CategoryLink" hidden="false" targetId="aff3-c3d1-90ca-06db" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="58ad-5e9d-3f60-6fce" name="Raziel Nk-X" hidden="false" collective="false" import="true" targetId="8532-0270-3c81-a94f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8d87-a1e6-83a7-70e9" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="a1de-2cea-f0c0-371b" name="CC: Undead" hidden="false" targetId="aff3-c3d1-90ca-06db" primary="false"/>
+        <categoryLink id="5137-59a5-66cc-075a" name="New CategoryLink" hidden="false" targetId="45dc-7307-2eb2-2bad" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8775-1c18-3aec-3988" name="Reindhold" hidden="false" collective="false" import="true" targetId="8823-9717-6257-8eec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="245e-134c-27ee-f6db" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1b7e-f5c9-8220-6891" name="Romeo Exxet" hidden="false" collective="false" import="true" targetId="5ea3-2627-82e0-6970" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6a68-6e23-cdda-5ce8" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="a2de-2605-079d-987d" name="New CategoryLink" hidden="false" targetId="875c-3be2-65cb-4413" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="786d-4c00-7c00-cbe8" name="Saint Astraega" hidden="false" collective="false" import="true" targetId="757d-ebd8-6df0-a802" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b854-7703-511f-faf3" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0746-9dab-4e3f-8049" name="Saint Council" hidden="false" collective="false" import="true" targetId="7faa-485b-ede4-49c2" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="cd46-0ac1-20cd-5a7d" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="a2a2-6f99-656d-1d01" name="New CategoryLink" hidden="false" targetId="9469-cb50-29bc-4ad5" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="64c0-98fd-e0f9-2308" name="Saint Evangeline" hidden="false" collective="false" import="true" targetId="82b9-4248-2463-6eb1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7b19-e896-28f6-8b04" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a879-04f8-c214-3e2a" name="Saint Hazael" hidden="false" collective="false" import="true" targetId="2a37-b61e-d15f-1e3c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2154-852f-58b8-406f" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1cba-c6bd-d45f-36a0" name="Sarah Reindhold" hidden="false" collective="false" import="true" targetId="353e-e77c-6cf6-47c6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d796-4c10-2eda-77f8" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="42ba-1491-74a9-86ab" name="Sho" hidden="false" collective="false" import="true" targetId="1934-f9a4-cdca-caec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b09e-37f5-1961-b54a" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="cb99-5ff0-0552-77dd" name="Sophia Ilmora" hidden="false" collective="false" import="true" targetId="8ffc-1155-9a23-9f89" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="cf36-561d-deab-a6e2" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="427e-9f3b-9f17-e13b" name="Takanosuke" hidden="false" collective="false" import="true" targetId="2f88-4708-55f3-def8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1e92-9ba1-b90d-25cf" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8091-66ba-fc1e-a764" name="The Bearer of Calamities" hidden="true" collective="false" import="true" targetId="bde6-2c0d-7a0b-3750" type="selectionEntry">
+      <modifiers>
+        <modifier type="set" field="hidden" value="false">
+          <conditions>
+            <condition field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="d74c-56d4-c36a-9d52" type="atLeast"/>
+          </conditions>
+        </modifier>
+      </modifiers>
+      <categoryLinks>
+        <categoryLink id="5ffc-6f51-47ff-1263" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a7ba-b010-9083-ddd5" name="The Condemned Lovers" hidden="false" collective="false" import="true" targetId="5128-dfcc-feeb-ec2d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e7d9-6da9-fc4a-8482" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="73ea-e780-ef18-3835" name="New CategoryLink" hidden="false" targetId="9469-cb50-29bc-4ad5" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4d61-465c-29e6-71a5" name="The Three Dragons" hidden="false" collective="false" import="true" targetId="8efd-1cba-57b6-e04d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d459-37e4-2ec6-2395" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="3ddf-651f-7b93-2d91" name="New CategoryLink" hidden="false" targetId="9469-cb50-29bc-4ad5" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b294-8c9c-5dbf-3757" name="Theurgia" hidden="false" collective="false" import="true" targetId="e221-8f48-810d-9c98" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c06c-923f-a3a4-3f48" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="9b23-bfa7-25c0-2e64" name="New CategoryLink" hidden="false" targetId="70df-cfa1-55c1-3d2c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="635d-bb0f-8479-0e8b" name="Tiamat" hidden="false" collective="false" import="true" targetId="8175-8e3e-3857-47eb" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f5c3-b0e2-d64c-6f9f" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="b004-23b3-cffc-d8dc" name="New CategoryLink" hidden="false" targetId="45dc-7307-2eb2-2bad" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5b14-bfb1-fd91-8fc2" name="Tsubasa Kurokami" hidden="false" collective="false" import="true" targetId="0095-7f09-efed-c097" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e8f5-561b-0c3f-1816" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d80a-a50d-ff4a-6177" name="Type-004: Hellhound" hidden="false" collective="false" import="true" targetId="5a71-98ae-7de8-1f2f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5b19-4fcb-d7a3-26c3" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="e55e-d73e-53ee-236d" name="New CategoryLink" hidden="false" targetId="aff3-c3d1-90ca-06db" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5cdb-c1f1-429e-e33a" name="Type-005" hidden="false" collective="false" import="true" targetId="668d-6a6c-0977-b492" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d46a-f539-644b-cdb9" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="0b20-ec0a-ad16-a470" name="New CategoryLink" hidden="false" targetId="aff3-c3d1-90ca-06db" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="fa33-fbd9-728e-5694" name="Type-009" hidden="false" collective="false" import="true" targetId="892c-3100-36be-8f61" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4bc1-81ae-a470-c21b" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="7f66-d26f-afb7-e651" name="New CategoryLink" hidden="false" targetId="aff3-c3d1-90ca-06db" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="dfe4-150a-63f6-0ee5" name="Type-012: Hunter" hidden="false" collective="false" import="true" targetId="ff0d-13c2-02a1-a178" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b6f8-8b8a-346b-c1b0" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="85e6-0c95-99c3-f1d0" name="New CategoryLink" hidden="false" targetId="aff3-c3d1-90ca-06db" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="608b-56b4-c17a-7a7e" name="Type-020: Verrier" hidden="false" collective="false" import="true" targetId="3e74-0329-eeb7-8765" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f092-62b4-971e-bcd3" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="ab08-032c-e6c6-f34a" name="New CategoryLink" hidden="false" targetId="aff3-c3d1-90ca-06db" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="073b-e6a4-0548-08a1" name="Valis Ul Del Vilfain" hidden="false" collective="false" import="true" targetId="8563-aa4b-38e9-935b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d726-d499-3ef0-0818" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="0703-d4c3-4cf5-52f3" name="New CategoryLink" hidden="false" targetId="45dc-7307-2eb2-2bad" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1aca-bf45-50a8-093d" name="Veronica" hidden="false" collective="false" import="true" targetId="df1a-8aa1-0d01-5dc0" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="cb7b-af1b-b16f-6606" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="eec9-9009-efb5-a480" name="Weapons of Azrael" hidden="false" collective="false" import="true" targetId="a2b9-cea5-df2e-c585" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ba44-5f23-f609-8eb1" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="9bc3-d631-0668-634e" name="New CategoryLink" hidden="false" targetId="9469-cb50-29bc-4ad5" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ae53-c379-1d9e-f193" name="XII" hidden="false" collective="false" import="true" targetId="3c22-72ce-2f77-89a1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="aef5-32b0-6a79-1828" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="3c7e-d958-806a-fad3" name="New CategoryLink" hidden="false" targetId="875c-3be2-65cb-4413" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e117-877b-ec50-0528" name="Yuki" hidden="false" collective="false" import="true" targetId="78e7-7db5-e4ed-3671" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="851c-19a7-09c7-47f0" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c763-fb96-087b-89a1" name="Yuri Olson" hidden="false" collective="false" import="true" targetId="a169-226f-282e-fe45" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ae34-3bb1-2d01-6306" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+        <categoryLink id="4bfe-7664-1252-9e21" name="New CategoryLink" hidden="false" targetId="875c-3be2-65cb-4413" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ce18-9840-7136-13fd" name="Zenobius" hidden="true" collective="false" import="true" targetId="8d88-b1b3-84d5-51b0" type="selectionEntry">
+      <modifiers>
+        <modifier type="set" field="hidden" value="false">
+          <conditions>
+            <condition field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="dbc9-1018-db14-0983" type="atLeast"/>
+          </conditions>
+        </modifier>
+      </modifiers>
+      <categoryLinks>
+        <categoryLink id="29e6-5ce6-cf0e-8729" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c7b7-797f-20c8-f1d9" name="Akio Kageshima" hidden="false" collective="false" import="true" targetId="2879-ce4e-ee15-9e2b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="bf1d-d629-673c-f55a" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e5f7-e0d9-686e-58e6" name="Styx" hidden="false" collective="false" import="true" targetId="efab-ac02-e5ef-552d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="516b-759e-0d43-ffd4" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
+        <categoryLink id="cc69-c189-4d39-1e72" name="CC: Undead" hidden="false" targetId="aff3-c3d1-90ca-06db" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="845c-fbe3-9b1d-b03d" name="Wrath of Nature" hidden="false" collective="false" import="true" targetId="c183-d67e-60f4-7dc0" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="06a1-daaf-be66-5171" name="CC: Lord of Fantasy Summon" hidden="false" targetId="0e25-85c0-c242-309c" primary="true"/>
+        <categoryLink id="d8d3-77d3-37b7-786c" name="Character" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="35b7-9622-f1d8-728b" name="Hamadria" hidden="false" collective="false" import="true" targetId="fcbb-508f-cd56-c7ef" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0c7d-291e-6dc1-d0cb" name="CC: Lord of Fantasy Summon" hidden="false" targetId="0e25-85c0-c242-309c" primary="true"/>
+        <categoryLink id="9f44-f030-f20e-519b" name="Character" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0df1-d3b8-ae90-ad55" name="Elhaim, Maiden of Light" hidden="false" collective="false" import="true" targetId="b784-450d-5427-6c80" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2fba-b00f-bde2-7245" name="CC: Lord of Fantasy Summon" hidden="false" targetId="0e25-85c0-c242-309c" primary="true"/>
+        <categoryLink id="5535-fa0b-7e9b-582d" name="Character" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7d80-ff56-cd6c-60d9" name="Arias Vayu" hidden="false" collective="false" import="true" targetId="f33c-79c5-a39e-b300" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7d73-2329-c43a-862e" name="CC: Lord of Fantasy Summon" hidden="false" targetId="0e25-85c0-c242-309c" primary="true"/>
+        <categoryLink id="2c00-d208-c7bb-cc5f" name="Character" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0d11-750c-8ff1-22de" name="Alius, Holy Soldier" hidden="false" collective="false" import="true" targetId="9389-4cad-32cb-cd67" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="30ee-2baf-1ffa-4653" name="CC: Lord of Fantasy Summon" hidden="false" targetId="0e25-85c0-c242-309c" primary="true"/>
+        <categoryLink id="2b25-c1d6-29c9-abe3" name="Character" hidden="false" targetId="0327-1645-fe9f-d921" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <catalogueLinks>
+    <catalogueLink id="9540-86d4-446c-fb08" name="Wanderers" targetId="fbad-72d2-ac9e-dd6f" type="catalogue" importRootEntries="false"/>
+    <catalogueLink id="d1ca-37e1-127c-e802" name="Wissenshaft" targetId="c6be-dde3-661f-3feb" type="catalogue" importRootEntries="false"/>
+    <catalogueLink id="b5c1-4a73-f81a-34ae" name="Azur Alliance" targetId="021a-a0fd-627b-37e7" type="catalogue" importRootEntries="false"/>
+    <catalogueLink id="82cf-2815-2045-95fe" name="Black Sun" targetId="a8bf-6b0b-8cfb-d2cf" type="catalogue" importRootEntries="false"/>
+    <catalogueLink id="b858-f580-0847-c867" name="Church" targetId="f965-f8ff-68ad-0249" type="catalogue" importRootEntries="false"/>
+    <catalogueLink id="5860-04d2-dc42-873b" name="Empire" targetId="ef2d-49bc-8334-8909" type="catalogue" importRootEntries="false"/>
+    <catalogueLink id="9b7e-7e97-d293-0456" name="Samael" targetId="dd5a-c1ec-2657-f96c" type="catalogue" importRootEntries="false"/>
+  </catalogueLinks>
+</catalogue>
