@@ -19,3 +19,6 @@ This Wissenschaft organization advantage is not working properly.
 
 Dawn of the Dead
 This Black Sun organization advantage is not working properly.
+
+ACC (Advantage Card Counter)
+Due to the fact that BS does not want to adequately calculate the limit of cards based simply on the number of characters taken to the roster, an additional type of game points had to be introduced, which of course was not reflected in the original rules.
