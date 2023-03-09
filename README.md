@@ -26,19 +26,19 @@ Of course it's not perfectly made and have its own set of bugs, crutches and iss
 
 ## References ##
 [References]: #references
-Anima Tactics Core Rulebook
+[Anima Tactics Core Rulebook](https://www.mediafire.com/file/34brwkz1eyasqi0/AT_-_Core_Rulebook.pdf/file)
 
-Anima Tactics Black Sun Starter Rulebook
+[Anima Tactics Black Sun Starter Rulebook](https://www.mediafire.com/file/tr1eosm7zxavwnm/AT_-_Black_Sun_Starter_Rulebook.pdf/file)
 
-Anima Tactics Starter Rulebook - Saga I
+[Anima Tactics Starter Rulebook - Saga I](https://www.mediafire.com/file/8obvjrrvnsugby3/AT_-_Starter_Rulebook_Saga_I.pdf/file)
 
-Anima Tactics Web Addendum vol. 1
+[Anima Tactics Web Addendum vol. 1](https://www.mediafire.com/file/6lxvng0ku923vhn/AT_-_Web_Addendum_vol._1.pdf/file)
 
-Anima Tactics Web Addendum vol. 2
+[Anima Tactics Web Addendum vol. 2](https://www.mediafire.com/file/ruq5vtjzc5frhya/AT_-_Web_Addendum_vol._2.pdf/file)
 
-Anima Tactics Errata 2011 2.2
+[Anima Tactics Errata 2011 2.2](https://www.mediafire.com/file/bvsbijcwigyfphm/AT_-_Errata_2011_2.2.pdf/file)
 
-Anima Tactics Saga III & IV 2013 Update
+[Anima Tactics Saga III & IV 2013 Update](https://www.mediafire.com/file/c3wve4ndq22phyo/AT_-_Saga_III_%2526_IV_2013_Update.pdf/file)
 
 [Anima Tactics Oracle](http://atoracle.wikidot.com/)
 
