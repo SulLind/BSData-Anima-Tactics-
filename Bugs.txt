@@ -1,0 +1,21 @@
+Known bugs and issues
+
+Base Sizes
+Many characters miss this charactheristics cause i don't have their miniatures and 
+У многих персонажей эта характеристика не указана так как у меня нет миниатюр этих персонажей и поэтому я не могу с уверенностью указать размеры их баз.
+Many characters don't have this stat listed because I don't have miniatures of those characters and therefore I can't accurately state the size of their bases.
+
+Rules
+Some characters miss required references to general rules.
+
+Anna Never
+Her party lineup requirement (more light characters than dark ones) is not working properly.
+
+Roster Printing
+BattleScribe awkwardly prints rosters - need to fix it somehow.
+
+Manipulation
+This Wissenschaft organization advantage is not working properly.
+
+Dawn of the Dead
+This Black Sun organization advantage is not working properly.
