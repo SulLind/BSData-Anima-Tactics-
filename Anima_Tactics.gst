@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gameSystem id="9e6c-b4ee-9b0c-b4e3" name="Anima Tactics" revision="5" battleScribeVersion="2.03" authorName="Saidea" authorContact="https://steamcommunity.com/id/Saidea/" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
-  <readme>All credits goes to the Anima Tactics creators.</readme>
+    <readme>All credits and rights goes to the Anima Tactics creators and publishers.
+Carlos B. García Aparício
+Luis Nuñez de Castro
+Salvador Espin
+Wen Yu Li
+Sergio Almagro Torrecillas
+
+Cipher Studios
+Edge Entertainment
+Fantasy Flight Games
+
+</readme>
   <publications>
     <publication id="e59b-3a70-cc8a-7ddd" name="AT Core Rulebook"/>
     <publication id="e93f-0b56-d5c8-9dd5" name="Black Sun Rulebook"/>
