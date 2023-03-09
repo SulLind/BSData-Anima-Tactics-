@@ -9,7 +9,13 @@ Anima Tactics
 
 [![Chat on Discord](https://img.shields.io/discord/558412685981777922.svg?logo=discord&style=popout-square)](https://www.bsdata.net/discord)
 
+#### Contents ####
+
+* [Overview][]
+* [Links][]
+
 ## Overview ##
+[Overview]: #overview
 
 __What's this?__
 
@@ -26,6 +32,7 @@ __I found a bug!__ / *I have another request*
 Great, thank you! Please [Report a bug][bug report] - you can also suggest enhancements and raise other issues there.
 
 ## Links ##
+[Links]: #links
 
 * [BSData organization homepage][BSData.net]
 * [BattleScribe app homepage](https://www.battlescribe.net/)
