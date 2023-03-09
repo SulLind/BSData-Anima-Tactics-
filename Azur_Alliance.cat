@@ -2387,8 +2387,8 @@ Attack</characteristic>
         <entryLink id="f4e8-3f7f-de10-61f6" name="Advantage Card" hidden="false" collective="false" import="true" targetId="79af-b0de-7149-8117" type="selectionEntry"/>
       </entryLinks>
       <costs>
-        <cost name=" ACC" typeId="526f-9faa-3bb1-aad2" value="1.0"/>
         <cost name=" Levels" typeId="64d2-50a8-e436-3619" value="25.0"/>
+        <cost name=" ACC" typeId="526f-9faa-3bb1-aad2" value="-1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="6bac-cb60-1732-3f9b" name="Maximo Ligori" hidden="false" collective="false" import="true" type="upgrade">
