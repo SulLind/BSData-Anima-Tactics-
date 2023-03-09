@@ -11,8 +11,36 @@ Anima Tactics
 
 #### Contents ####
 
+* [Description][]
+* [References][]
 * [Overview][]
 * [Links][]
+
+## Description ##
+[Description]: #description
+Army builder for Anima Tactics based on BattleScribe.
+
+It differs from army builders that i known by the inclusion of all updates and fixes for the rules and characters, the ability to include unreleased characters in the roster (including the characters of the last two computer games in the Anima universe) and the ability to use the roster compiled in it for playing without using the original character cards and advantage cards, since all information from them is contained in the files of the army builder and can be included in the roster itself.
+
+Of course it's not perfectly made and have its own set of bugs, crutches and issues listed in Bugs.txt, but despite this, it is quite functional and quite convenient.
+
+## References ##
+[References]: #references
+Anima Tactics Core Rulebook
+
+Anima Tactics Black Sun Starter Rulebook
+
+Anima Tactics Starter Rulebook - Saga I
+
+Anima Tactics Web Addendum vol. 1
+
+Anima Tactics Web Addendum vol. 2
+
+Anima Tactics Errata 2011 2.2
+
+Anima Tactics Saga III & IV 2013 Update
+
+[Anima Tactics Oracle](http://atoracle.wikidot.com/)
 
 ## Overview ##
 [Overview]: #overview
