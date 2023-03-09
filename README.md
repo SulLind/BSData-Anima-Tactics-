@@ -40,6 +40,8 @@ Of course it's not perfectly made and have its own set of bugs, crutches and iss
 
 [Anima Tactics Saga III & IV 2013 Update](https://www.mediafire.com/file/c3wve4ndq22phyo/AT_-_Saga_III_%2526_IV_2013_Update.pdf/file)
 
+[Anima Tactics Cards](https://www.mediafire.com/file/7g5hyhifa4hgl6w/Cards.zip/file)
+
 [Anima Tactics Oracle](http://atoracle.wikidot.com/)
 
 ## Overview ##
