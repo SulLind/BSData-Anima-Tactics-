@@ -18,9 +18,10 @@ Anima Tactics
 
 ## Description ##
 [Description]: #description
-Army builder for Anima Tactics based on BattleScribe.
 
-It differs from army builders that i known by the inclusion of all updates and fixes for the rules and characters, the ability to include unreleased characters in the roster (including the characters of the last two computer games in the Anima universe) and the ability to use the roster compiled in it for playing without using the original character cards and advantage cards, since all information from them is contained in the files of the army builder and can be included in the roster itself.
+Data files containing everything required to create rosters for the Anima: Tactics miniature game via BattleScribe.
+
+It differs from army builders that i known by the inclusion of all updates and fixes for the rules and characters, the ability to include unreleased characters in the roster (including the characters from [Anima: Gate of Memories](https://en.wikipedia.org/wiki/Anima:_Gate_of_Memories)) and the ability to use the roster compiled in it for playing without using the original character cards and advantage cards, since all information from them is contained in the files of the army builder and can be included in the roster itself.
 
 Of course it's not perfectly made and have its own set of bugs, crutches and issues listed in Bugs.txt, but despite this, it is quite functional and quite convenient.
 
