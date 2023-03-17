@@ -1,8 +1,6 @@
 Known bugs and issues
 
 Base Sizes
-Many characters miss this charactheristics cause i don't have their miniatures and 
-У многих персонажей эта характеристика не указана так как у меня нет миниатюр этих персонажей и поэтому я не могу с уверенностью указать размеры их баз.
 Many characters don't have this stat listed because I don't have miniatures of those characters and therefore I can't accurately state the size of their bases.
 
 Rules
