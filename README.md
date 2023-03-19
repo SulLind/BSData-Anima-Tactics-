@@ -19,7 +19,7 @@ Anima: Tactics
 ## Description ##
 [Description]: #description
 
-Data files containing everything required to create rosters for the [Anima: Tactics](https://boardgamegeek.com/boardgame/27028/anima-tactics) miniature game via BattleScribe.
+Data files containing everything required to create rosters for the [Anima: Tactics](https://boardgamegeek.com/boardgame/27028/anima-tactics) miniature game via [BattleScribe](https://www.battlescribe.net/?tab=news).
 
 It differs from army builders that i known by the inclusion of all updates and fixes for the rules and characters, the ability to include unreleased characters in the roster (including the characters from [Anima: Gate of Memories](https://en.wikipedia.org/wiki/Anima:_Gate_of_Memories)) and the ability to use the roster compiled in it for playing without using the original character cards and advantage cards, since all information from them is contained in the files of the army builder and can be included in the roster itself.
 
