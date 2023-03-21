@@ -12,8 +12,11 @@ Her party lineup requirement (more light characters than dark ones) is not worki
 Roster Printing
 BattleScribe awkwardly prints rosters - need to fix it somehow.
 
-Manipulation
-This Wissenschaft organization advantage is not working properly.
+Kappel: Lord of Fantasy
+Only 4 summons added.
+
+The Nameless: Army of Memories
+Shadow versions of characters still not added.
 
 Dawn of the Dead
 This Black Sun organization advantage is not working properly.
