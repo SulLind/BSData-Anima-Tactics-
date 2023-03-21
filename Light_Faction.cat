@@ -124,7 +124,14 @@
         <categoryLink id="e9c4-4906-f973-08bd" name="New CategoryLink" hidden="false" targetId="9469-cb50-29bc-4ad5" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="0420-5d7a-0695-f124" name="Fate" hidden="false" collective="false" import="true" targetId="b993-1f3a-445a-3ac3" type="selectionEntry">
+    <entryLink id="0420-5d7a-0695-f124" name="Fate" hidden="true" collective="false" import="true" targetId="b993-1f3a-445a-3ac3" type="selectionEntry">
+      <modifiers>
+        <modifier type="set" field="hidden" value="false">
+          <conditions>
+            <condition field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="dbc9-1018-db14-0983" type="atLeast"/>
+          </conditions>
+        </modifier>
+      </modifiers>
       <categoryLinks>
         <categoryLink id="cab1-2b51-2456-9e6e" name="New CategoryLink" hidden="false" targetId="0327-1645-fe9f-d921" primary="true"/>
       </categoryLinks>
