@@ -20677,7 +20677,7 @@ Orders: These are the special abilities the Arbiter can use, by spending their O
         <characteristic name="Level" typeId="53d4-06b9-3214-081a">5</characteristic>
         <characteristic name="Type" typeId="7ea6-c9bb-23df-ac0a">Plot</characteristic>
         <characteristic name="Single Use" typeId="90b4-8d39-aa94-73d8">No</characteristic>
-        <characteristic name="Description" typeId="16c6-2bac-c2e0-afcd">At the start of the first turn of the game choose one piece of scenery on the board. Any Character that is on it during the Recovery Phase recovers on Life Point. This effect lasts throughout the game.</characteristic>
+        <characteristic name="Description" typeId="16c6-2bac-c2e0-afcd">At the start of the first turn of the game choose one piece of scenery on the board. Any Character that is on it during the Recovery Phase recovers on Life Point. This effect lasts through the game.</characteristic>
       </characteristics>
     </profile>
     <profile id="f70f-2517-42de-5495" name="Raphael&apos;s Gift" hidden="false" typeId="c5bc-4630-a1f1-9346" typeName="Advantage Card">
